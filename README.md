@@ -41,3 +41,11 @@ Se você tiver o Java Development Kit (JDK) instalado:
 
 A saída será a lista de números primos de 2 a 100:
 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.
+
+
+## 👨‍💻 Autor
+
+**Ítallo Gabriel de Oliveira Correia**
+
+  * *Estudante de Análise e Desenvolvimento de Sistemas*
+  * *Focado em Java, lógica de programação e desenvolvimento de software limpo.*
